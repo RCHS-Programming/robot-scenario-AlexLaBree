@@ -1,14 +1,14 @@
 #Greenfoot properties
-#Fri May 14 12:09:54 EDT 2021
+#Thu May 20 11:53:06 EDT 2021
 readme.name=@README
 target1.type=ClassTarget
 package.numTargets=1
 target1.height=50
 class.Home.superclass=greenfoot.Actor
 class.Wall.superclass=greenfoot.Actor
-class.Home.image=house-03.png
 class.Robot.superclass=greenfoot.Actor
 target1.y=0
+class.Home.image=house-03.png
 target1.x=0
 class.Block.superclass=greenfoot.Actor
 class.Wall.image=brick.jpg
@@ -33,8 +33,8 @@ readme.width=47
 class.Block.image=Block.png
 class.ScorPanel.image=ScorePanel.png
 world.lastInstantiated=RobotWorld
-class.Pizza.superclass=greenfoot.Actor
 class.Robot.image=man01.png
+class.Pizza.superclass=greenfoot.Actor
 version=3.0.0
 package.numDependencies=0
 project.charset=UTF-8
